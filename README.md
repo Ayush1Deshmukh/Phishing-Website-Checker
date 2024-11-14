@@ -81,6 +81,6 @@ PHISHSHIELD effectively utilizes Python for several reasons:
 - **CDN:** Employ a CDN to host the background image for better performance and security.
 - **
 
-<h2 align="center">**Contributing** 🤝</h2>
+<h2 align="center"> Contributing 🤝</h2>
 
 We welcome contributions to improve PHISHSHIELD. Feel free to fork the repository, make changes, and submit pull requests.
